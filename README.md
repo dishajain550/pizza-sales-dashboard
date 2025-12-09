@@ -4,6 +4,9 @@
 
 This project is a **sales performance dashboard** built to analyze **pizza sales trends, revenue, order behavior, and product performance** using interactive visualizations.
 
+<img width="697" height="369" alt="image" src="https://github.com/user-attachments/assets/02100b37-ac2c-4e35-9d5e-da861cd1a2d1" />
+
+
 ---
 
 ## 🎯 Dashboard Goals
